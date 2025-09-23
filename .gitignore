@@ -34,4 +34,4 @@ build/
 
 
 # Ignorar archivo de configuración con credenciales reales
-/application.properties
+src/main/resources/application.properties
